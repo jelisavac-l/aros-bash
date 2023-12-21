@@ -15,7 +15,7 @@ NC='\033[0m'              # No color
 help() {
     echo
     echo -e " ${Green}~+~+~ ${Cyan}POKEDEX.sh ${Green}~+~+~ ${NC}"
-    echo "Skripta prikazuje slike i podateko o pokemonu."
+    echo "Skripta prikazuje slike i podatke o pokemonu."
     echo
     echo "Nacin upotrebe: "
     echo "$0 <ime_pokemona>"
